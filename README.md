@@ -61,7 +61,7 @@
 
 ### visualizing hosting your resume on GitHub Pages ###
 
-<img src= "https://recordit.co/DMiPb3oyH5" width = 40%>
+![Demo]["C:\Users\kwame\OneDrive\Desktop\COMP 3040\DMiPb3oyH5.mp4"]
 
 
 ## More Resources
