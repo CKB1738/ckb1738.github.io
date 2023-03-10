@@ -61,7 +61,7 @@
 
 ### visualizing hosting your resume on GitHub Pages ###
 
-![Demo]["C:\Users\kwame\OneDrive\Desktop\COMP 3040\DMiPb3oyH5.mp4"]
+![Demo](demo.gif)
 
 
 ## More Resources
